@@ -1,0 +1,65 @@
+archimob6
+Nb docs:        6
+Nb lines:       11959
+Nb words:       93450
+Avg lines/doc:  1993
+Avg words/doc:  15575
+Avg chars/doc:  82779
+Avg words/line: 7.81
+Avg chars/line: 41.53
+Avg chars/word: 5.31
+
+archimob43
+Nb docs:        43
+Nb lines:       80228
+Nb words:       581974
+Avg lines/doc:  1866
+Avg words/doc:  13534
+Avg chars/doc:  71285
+Avg words/line: 7.25
+Avg chars/line: 38.21
+Avg chars/word: 5.27
+
+ndc
+Nb docs:        648
+Nb lines:       145961
+Nb words:       1937905
+Avg lines/doc:  225
+Avg words/doc:  2991
+Avg chars/doc:  12995
+Avg words/line: 13.28
+Avg chars/line: 57.69
+Avg chars/word: 4.35
+
+skn
+Nb docs:        99
+Nb lines:       51254
+Nb words:       841859
+Avg lines/doc:  518
+Avg words/doc:  8504
+Avg chars/doc:  48361
+Avg words/line: 16.43
+Avg chars/line: 93.41
+Avg chars/word: 5.69
+
+archimob6
+orig vocab: 43
+norm vocab: 39
+intersection vocab: 33
+union vocab: 49
+orig chars not in norm vocab: 10
+
+ndc
+orig vocab: 86
+norm vocab: 91
+intersection vocab: 84
+union vocab: 93
+orig chars not in norm vocab: 2
+
+skn
+orig vocab: 240
+norm vocab: 73
+intersection vocab: 70
+union vocab: 243
+orig chars not in norm vocab: 170
+
