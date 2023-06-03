@@ -3,7 +3,7 @@
 ## Levenshtein-distance based methods
 
 * `leven` (*leven* in the paper): Standard Levenshtein distance (implemented with the Python `edlib` module)
-* `leven_corpus_pmi` (*leven+PMI*): Weighted Levenshtein distance with PMI costs obtained from the entire corpus (custom implementation in `levenshtein_align.py`)
+* `leven_corpus_pmi` (*leven-pmi: Weighted Levenshtein distance with PMI costs obtained from the entire corpus (custom implementation in `levenshtein_align.py`)
 
 For both methods, the `add_adjacent_identicals.py` script is applied to increase alignment coverage.
 
@@ -21,7 +21,7 @@ For the unigram transducer, the `add_adjacent_identicals.py` script is applied t
 * `giza`: [GIZA++](https://github.com/moses-smt/giza-pp) with default parameters (except `mkcls` with 10 classes)
 * `fastalign`: [fast_align](https://github.com/clab/fast_align) with default parameters
 * `eflomal`: [eflomal](https://github.com/robertostling/eflomal) with default parameters
-* `eflomal_corpus_priors`: eflomal with priors estimated on the entire corpus
+* `eflomal_corpus_priors` (*eflomal-priors*): eflomal with priors estimated on the entire corpus
 
 ## Symmetrization
 
