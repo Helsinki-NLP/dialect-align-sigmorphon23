@@ -1,0 +1,41 @@
+
+m2m_max22_delXY_eqmap/archimob6/*.gdfa
+Number of files: 6
+Unaligned source tokens:	3.74%
+Unaligned target tokens:	10.51%
+Alignment to differents:	42.81%
+Vowel-cons alignments:	7.81%
+Crossing alignment pairs:	0.07%
+Format errors:	0
+
+m2m_max22_delXY_eqmap/concat/archimob6.*.gdfa
+Number of files: 1
+Unaligned source tokens:	3.98%
+Unaligned target tokens:	10.15%
+Alignment to differents:	42.72%
+Vowel-cons alignments:	7.62%
+Crossing alignment pairs:	0.06%
+Format errors:	0
+
+m2m_max22_delXY_eqmap/ndc/*.gdfa
+Number of files: 648
+Unaligned source tokens:	5.17%
+Unaligned target tokens:	8.13%
+Alignment to differents:	33.16%
+Vowel-cons alignments:	6.36%
+Crossing alignment pairs:	0.07%
+Format errors:	0
+
+m2m_max22_delXY_eqmap/concat/ndc.*.gdfa
+Number of files: 0
+m2m_max22_delXY_eqmap/skn/*.gdfa
+Number of files: 99
+Unaligned source tokens:	9.60%
+Unaligned target tokens:	7.35%
+Alignment to differents:	46.09%
+Vowel-cons alignments:	8.51%
+Crossing alignment pairs:	0.05%
+Format errors:	0
+
+m2m_max22_delXY_eqmap/concat/skn.*.gdfa
+Number of files: 0

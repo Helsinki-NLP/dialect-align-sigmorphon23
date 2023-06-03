@@ -1,0 +1,81 @@
+
+fastalign/archimob6/*.fwd
+Number of files: 6
+Unaligned source tokens:	33.68%
+Unaligned target tokens:	28.31%
+Alignment to differents:	8.19%
+Vowel-cons alignments:	1.41%
+Crossing alignment pairs:	3.01%
+Format errors:	0
+
+fastalign/concat/archimob6.*.fwd
+Number of files: 1
+Unaligned source tokens:	33.50%
+Unaligned target tokens:	28.14%
+Alignment to differents:	7.58%
+Vowel-cons alignments:	1.29%
+Crossing alignment pairs:	3.06%
+Format errors:	0
+
+fastalign/ndc/*.fwd
+Number of files: 648
+Cannot parse alignment in file fastalign/ndc/eidfjord_01um-sl.fwd:
+
+Cannot parse alignment in file fastalign/ndc/fredrikstad_03gm-eo.fwd:
+
+Cannot parse alignment in file fastalign/ndc/fredrikstad_03gm-eo.fwd:
+
+Cannot parse alignment in file fastalign/ndc/gjesdal_01um-jbj.fwd:
+
+Unaligned source tokens:	36.30%
+Unaligned target tokens:	29.78%
+Alignment to differents:	5.82%
+Vowel-cons alignments:	1.20%
+Crossing alignment pairs:	1.58%
+Format errors:	4
+
+fastalign/concat/ndc.*.fwd
+Number of files: 1
+Cannot parse alignment in file fastalign/concat/ndc.all.fwd:
+
+Cannot parse alignment in file fastalign/concat/ndc.all.fwd:
+
+Cannot parse alignment in file fastalign/concat/ndc.all.fwd:
+
+Cannot parse alignment in file fastalign/concat/ndc.all.fwd:
+
+Cannot parse alignment in file fastalign/concat/ndc.all.fwd:
+
+Cannot parse alignment in file fastalign/concat/ndc.all.fwd:
+
+Cannot parse alignment in file fastalign/concat/ndc.all.fwd:
+
+Cannot parse alignment in file fastalign/concat/ndc.all.fwd:
+
+Cannot parse alignment in file fastalign/concat/ndc.all.fwd:
+
+Unaligned source tokens:	35.91%
+Unaligned target tokens:	29.31%
+Alignment to differents:	4.83%
+Vowel-cons alignments:	0.98%
+Crossing alignment pairs:	1.65%
+Format errors:	9
+
+fastalign/skn/*.fwd
+Number of files: 99
+Unaligned source tokens:	55.68%
+Unaligned target tokens:	47.88%
+Alignment to differents:	4.88%
+Vowel-cons alignments:	0.22%
+Crossing alignment pairs:	0.65%
+Format errors:	0
+
+fastalign/concat/skn.*.fwd
+Number of files: 1
+Unaligned source tokens:	54.46%
+Unaligned target tokens:	46.79%
+Alignment to differents:	3.41%
+Vowel-cons alignments:	0.17%
+Crossing alignment pairs:	0.56%
+Format errors:	0
+

@@ -1,0 +1,55 @@
+
+giza/archimob6/*.fwd
+Number of files: 6
+Unaligned source tokens:	10.53%
+Unaligned target tokens:	17.85%
+Alignment to differents:	10.65%
+Vowel-cons alignments:	0.65%
+Crossing alignment pairs:	0.86%
+Format errors:	0
+
+giza/concat/archimob6.*.fwd
+Number of files: 1
+Unaligned source tokens:	10.37%
+Unaligned target tokens:	17.81%
+Alignment to differents:	10.86%
+Vowel-cons alignments:	0.62%
+Crossing alignment pairs:	0.73%
+Format errors:	0
+
+giza/ndc/*.fwd
+Number of files: 648
+Unaligned source tokens:	20.24%
+Unaligned target tokens:	21.84%
+Alignment to differents:	8.55%
+Vowel-cons alignments:	0.37%
+Crossing alignment pairs:	0.69%
+Format errors:	0
+
+giza/concat/ndc.*.fwd
+Number of files: 1
+Unaligned source tokens:	33.82%
+Unaligned target tokens:	34.71%
+Alignment to differents:	11.86%
+Vowel-cons alignments:	0.20%
+Crossing alignment pairs:	1.06%
+Format errors:	0
+
+giza/skn/*.fwd
+Number of files: 99
+Unaligned source tokens:	43.31%
+Unaligned target tokens:	39.67%
+Alignment to differents:	6.59%
+Vowel-cons alignments:	0.16%
+Crossing alignment pairs:	1.73%
+Format errors:	0
+
+giza/concat/skn.*.fwd
+Number of files: 1
+Unaligned source tokens:	39.58%
+Unaligned target tokens:	36.09%
+Alignment to differents:	6.19%
+Vowel-cons alignments:	0.09%
+Crossing alignment pairs:	1.23%
+Format errors:	0
+

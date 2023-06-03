@@ -1,0 +1,55 @@
+
+m2m_max11_delXY/aai/archimob6/*.fwd
+Number of files: 6
+Unaligned source tokens:	13.81%
+Unaligned target tokens:	23.64%
+Alignment to differents:	10.17%
+Vowel-cons alignments:	0.62%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/aai/concat/archimob6.*.fwd
+Number of files: 1
+Unaligned source tokens:	14.12%
+Unaligned target tokens:	23.90%
+Alignment to differents:	9.98%
+Vowel-cons alignments:	0.62%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/aai/ndc/*.fwd
+Number of files: 648
+Unaligned source tokens:	2.03%
+Unaligned target tokens:	9.01%
+Alignment to differents:	7.55%
+Vowel-cons alignments:	0.14%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/aai/concat/ndc.*.fwd
+Number of files: 1
+Unaligned source tokens:	2.19%
+Unaligned target tokens:	9.23%
+Alignment to differents:	7.23%
+Vowel-cons alignments:	0.03%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/aai/skn/*.fwd
+Number of files: 99
+Unaligned source tokens:	19.13%
+Unaligned target tokens:	16.01%
+Alignment to differents:	5.97%
+Vowel-cons alignments:	0.07%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/aai/concat/skn.*.fwd
+Number of files: 1
+Unaligned source tokens:	10.81%
+Unaligned target tokens:	7.48%
+Alignment to differents:	4.56%
+Vowel-cons alignments:	0.02%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+

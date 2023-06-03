@@ -1,0 +1,55 @@
+
+leven/archimob6/*.uni
+Number of files: 6
+Unaligned source tokens:	4.55%
+Unaligned target tokens:	13.67%
+Alignment to differents:	14.46%
+Vowel-cons alignments:	1.37%
+Crossing alignment pairs:	0.03%
+Format errors:	0
+
+leven/concat/archimob6.*.uni
+Number of files: 1
+Unaligned source tokens:	4.55%
+Unaligned target tokens:	13.67%
+Alignment to differents:	14.46%
+Vowel-cons alignments:	1.37%
+Crossing alignment pairs:	0.03%
+Format errors:	0
+
+leven/ndc/*.uni
+Number of files: 648
+Unaligned source tokens:	5.08%
+Unaligned target tokens:	8.08%
+Alignment to differents:	8.80%
+Vowel-cons alignments:	0.36%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/concat/ndc.*.uni
+Number of files: 1
+Unaligned source tokens:	5.08%
+Unaligned target tokens:	8.08%
+Alignment to differents:	8.80%
+Vowel-cons alignments:	0.36%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/skn/*.uni
+Number of files: 99
+Unaligned source tokens:	9.26%
+Unaligned target tokens:	6.10%
+Alignment to differents:	7.60%
+Vowel-cons alignments:	0.32%
+Crossing alignment pairs:	0.01%
+Format errors:	0
+
+leven/concat/skn.*.uni
+Number of files: 1
+Unaligned source tokens:	9.26%
+Unaligned target tokens:	6.10%
+Alignment to differents:	7.60%
+Vowel-cons alignments:	0.32%
+Crossing alignment pairs:	0.01%
+Format errors:	0
+

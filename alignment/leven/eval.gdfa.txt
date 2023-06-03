@@ -1,0 +1,55 @@
+
+leven/archimob6/*.gdfa
+Number of files: 6
+Unaligned source tokens:	4.57%
+Unaligned target tokens:	13.76%
+Alignment to differents:	14.45%
+Vowel-cons alignments:	1.37%
+Crossing alignment pairs:	0.02%
+Format errors:	0
+
+leven/concat/archimob6.*.gdfa
+Number of files: 1
+Unaligned source tokens:	4.57%
+Unaligned target tokens:	13.76%
+Alignment to differents:	14.45%
+Vowel-cons alignments:	1.37%
+Crossing alignment pairs:	0.02%
+Format errors:	0
+
+leven/ndc/*.gdfa
+Number of files: 648
+Unaligned source tokens:	5.09%
+Unaligned target tokens:	8.10%
+Alignment to differents:	8.78%
+Vowel-cons alignments:	0.36%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/concat/ndc.*.gdfa
+Number of files: 1
+Unaligned source tokens:	5.09%
+Unaligned target tokens:	8.10%
+Alignment to differents:	8.78%
+Vowel-cons alignments:	0.36%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/skn/*.gdfa
+Number of files: 99
+Unaligned source tokens:	9.27%
+Unaligned target tokens:	6.18%
+Alignment to differents:	7.60%
+Vowel-cons alignments:	0.31%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/concat/skn.*.gdfa
+Number of files: 1
+Unaligned source tokens:	9.27%
+Unaligned target tokens:	6.18%
+Alignment to differents:	7.60%
+Vowel-cons alignments:	0.31%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+

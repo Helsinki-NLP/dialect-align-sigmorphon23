@@ -1,0 +1,55 @@
+
+leven_corpus_pmi/archimob6/*.rev
+Number of files: 6
+Unaligned source tokens:	4.50%
+Unaligned target tokens:	13.89%
+Alignment to differents:	15.06%
+Vowel-cons alignments:	1.43%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven_corpus_pmi/concat/archimob6.*.rev
+Number of files: 1
+Unaligned source tokens:	4.50%
+Unaligned target tokens:	13.89%
+Alignment to differents:	15.06%
+Vowel-cons alignments:	1.43%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven_corpus_pmi/ndc/*.rev
+Number of files: 648
+Unaligned source tokens:	4.70%
+Unaligned target tokens:	7.71%
+Alignment to differents:	9.70%
+Vowel-cons alignments:	0.46%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven_corpus_pmi/concat/ndc.*.rev
+Number of files: 1
+Unaligned source tokens:	4.70%
+Unaligned target tokens:	7.71%
+Alignment to differents:	9.70%
+Vowel-cons alignments:	0.46%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven_corpus_pmi/skn/*.rev
+Number of files: 99
+Unaligned source tokens:	8.47%
+Unaligned target tokens:	5.65%
+Alignment to differents:	9.42%
+Vowel-cons alignments:	0.47%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven_corpus_pmi/concat/skn.*.rev
+Number of files: 1
+Unaligned source tokens:	8.47%
+Unaligned target tokens:	5.65%
+Alignment to differents:	9.42%
+Vowel-cons alignments:	0.47%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+

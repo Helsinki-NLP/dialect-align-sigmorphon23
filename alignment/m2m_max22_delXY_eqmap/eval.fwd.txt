@@ -1,0 +1,231 @@
+
+m2m_max22_delXY_eqmap/archimob6/*.fwd
+Number of files: 6
+Unaligned source tokens:	4.14%
+Unaligned target tokens:	14.10%
+Alignment to differents:	37.81%
+Vowel-cons alignments:	6.65%
+Crossing alignment pairs:	0.02%
+Format errors:	0
+
+m2m_max22_delXY_eqmap/concat/archimob6.*.fwd
+Number of files: 1
+Unaligned source tokens:	4.52%
+Unaligned target tokens:	14.64%
+Alignment to differents:	37.35%
+Vowel-cons alignments:	6.29%
+Crossing alignment pairs:	0.02%
+Format errors:	0
+
+m2m_max22_delXY_eqmap/ndc/*.fwd
+Number of files: 648
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_02uk-sr.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-mn.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_03gm-mi.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sokndal_03gm-jbj.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_01um-02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/darbu_04gk-ks.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brekkom_01um-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/medby_74-75.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_02uk-ov.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-hna.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjartdal_01um-as.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-mi.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_04gk-jbj.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-kb.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-kb.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_03gm-ov.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-mi.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_04gk-mi.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_03gm-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sokndal_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/darbu_03gm-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_04gk-ov.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_01um-03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_04gk-eo.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_03gm-eo.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_03gm-eo.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_03gm-eo.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_03gm-eo.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_20-mn.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_01um-02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_07gm-amj.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-aml.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_01um-02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_04gk-jbj.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_03gm-ov.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_01um-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/time_04gk-jbj.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_06uk-ov.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_02uk-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_07gm-aml.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vinje_04gk-08gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_01um-02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vang_02uk-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_05um-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_01um-ov.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/evje_03gm-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/time_03gm-sr.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_04gk-ov.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vinje_04gk-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_03gm-eo.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vang_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_03gm-aml.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-jbj.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-jbj.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_01um-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_04gk-mi.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_50-jbj.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_01um-05um.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-sr.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_39-ma.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_02uk-jk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_02uk-ks.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_02uk-mi.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_01um-ov.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_01um-sl.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_02uk-ov.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/drevsjoe_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_01um-02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_01um-02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_01um-ks.fwd:
+
+Unaligned source tokens:	3.95%
+Unaligned target tokens:	10.29%
+Alignment to differents:	26.72%
+Vowel-cons alignments:	4.83%
+Crossing alignment pairs:	0.01%
+Format errors:	95
+
+m2m_max22_delXY_eqmap/concat/ndc.*.fwd
+Number of files: 0
+m2m_max22_delXY_eqmap/skn/*.fwd
+Number of files: 99
+Unaligned source tokens:	12.17%
+Unaligned target tokens:	12.33%
+Alignment to differents:	46.59%
+Vowel-cons alignments:	8.76%
+Crossing alignment pairs:	0.01%
+Format errors:	0
+
+m2m_max22_delXY_eqmap/concat/skn.*.fwd
+Number of files: 0

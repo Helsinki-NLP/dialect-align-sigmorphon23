@@ -1,0 +1,103 @@
+
+eflomal/archimob6/*.uni
+Number of files: 6
+Unaligned source tokens:	2.25%
+Unaligned target tokens:	8.51%
+Alignment to differents:	20.17%
+Vowel-cons alignments:	2.02%
+Crossing alignment pairs:	0.64%
+Format errors:	0
+
+eflomal/concat/archimob6.*.uni
+Number of files: 1
+Unaligned source tokens:	3.11%
+Unaligned target tokens:	11.11%
+Alignment to differents:	17.11%
+Vowel-cons alignments:	1.28%
+Crossing alignment pairs:	1.48%
+Format errors:	0
+
+eflomal/ndc/*.uni
+Number of files: 648
+Unaligned source tokens:	2.46%
+Unaligned target tokens:	7.47%
+Alignment to differents:	9.30%
+Vowel-cons alignments:	0.43%
+Crossing alignment pairs:	0.16%
+Format errors:	0
+
+eflomal/concat/ndc.*.uni
+Number of files: 1
+Unaligned source tokens:	2.73%
+Unaligned target tokens:	4.76%
+Alignment to differents:	12.55%
+Vowel-cons alignments:	0.67%
+Crossing alignment pairs:	7.28%
+Format errors:	0
+
+eflomal/skn/*.uni
+Number of files: 99
+Cannot parse alignment in file eflomal/skn/14a.uni:
+
+Cannot parse alignment in file eflomal/skn/06a.uni:
+
+Cannot parse alignment in file eflomal/skn/27a.uni:
+
+Cannot parse alignment in file eflomal/skn/21a.uni:
+
+Cannot parse alignment in file eflomal/skn/10a.uni:
+
+Cannot parse alignment in file eflomal/skn/45b.uni:
+
+Cannot parse alignment in file eflomal/skn/45b.uni:
+
+Cannot parse alignment in file eflomal/skn/12b.uni:
+
+Cannot parse alignment in file eflomal/skn/13b.uni:
+
+Cannot parse alignment in file eflomal/skn/13b.uni:
+
+Cannot parse alignment in file eflomal/skn/13b.uni:
+
+Cannot parse alignment in file eflomal/skn/13b.uni:
+
+Unaligned source tokens:	7.53%
+Unaligned target tokens:	4.64%
+Alignment to differents:	9.98%
+Vowel-cons alignments:	0.21%
+Crossing alignment pairs:	1.00%
+Format errors:	12
+
+eflomal/concat/skn.*.uni
+Number of files: 1
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal/concat/skn.all.uni:
+
+Unaligned source tokens:	6.73%
+Unaligned target tokens:	3.91%
+Alignment to differents:	12.09%
+Vowel-cons alignments:	0.35%
+Crossing alignment pairs:	17.61%
+Format errors:	12
+

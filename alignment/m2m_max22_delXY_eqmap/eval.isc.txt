@@ -1,0 +1,4851 @@
+
+m2m_max22_delXY_eqmap/archimob6/*.isc
+Number of files: 6
+Cannot parse alignment in file m2m_max22_delXY_eqmap/archimob6/1143.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/archimob6/1143.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/archimob6/1198.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/archimob6/1198.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/archimob6/1198.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/archimob6/1198.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/archimob6/1198.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/archimob6/1270.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/archimob6/1063.isc:
+
+Unaligned source tokens:	49.74%
+Unaligned target tokens:	54.72%
+Alignment to differents:	24.02%
+Vowel-cons alignments:	3.81%
+Crossing alignment pairs:	0.01%
+Format errors:	9
+
+m2m_max22_delXY_eqmap/concat/archimob6.*.isc
+Number of files: 1
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/concat/archimob6.all.isc:
+
+Unaligned source tokens:	47.83%
+Unaligned target tokens:	53.20%
+Alignment to differents:	24.35%
+Vowel-cons alignments:	3.76%
+Crossing alignment pairs:	0.00%
+Format errors:	22
+
+m2m_max22_delXY_eqmap/ndc/*.isc
+Number of files: 648
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_23-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_23-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_23-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_23-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_23-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_43-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_43-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_19-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_19-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/inderoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/inderoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/inderoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vang_02uk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_02uk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_02uk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_02uk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_02uk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_02uk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvinnherad_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvinnherad_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/evje_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/evje_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_03gm-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_03gm-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_03gm-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_03gm-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/dalsbygda_02uk-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_31-33.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_31-33.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_31-33.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_31-33.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_31-33.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-06.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-06.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-06.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-06.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-06.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-06.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-06.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-06.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-06.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_08gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_08gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_08gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_08gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_08gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_08gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_08gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_08gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_08gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_08gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_03gm-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_03gm-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_03gm-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_03gm-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_03gm-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_03gm-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/medby_75-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/namdalen_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_02uk-06uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_31-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_31-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_31-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_04gk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_03gm-jk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_03gm-jk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_06uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_06uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_06uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_06uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_06uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_02uk-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_02uk-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-20.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_20-mn.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_20-mn.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_20-mn.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_20-mn.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_20-mn.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_20-mn.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_20-mn.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_20-mn.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_20-mn.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roeros_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roeros_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roeros_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roeros_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/darbu_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_02uk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_02uk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_02uk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_02uk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/evje_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_02-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_02-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_02-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_02-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_02-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_03gm-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_03gm-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brekkom_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brekkom_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brekkom_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brekkom_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brekkom_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brekkom_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_04gk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_04gk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_02uk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skreia_02uk-as.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skreia_02uk-as.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_02uk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_02uk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fusa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fusa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fusa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fusa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_01um-05um.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_01um-05um.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_04gk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_04gk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_04gk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vang_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vang_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vang_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vang_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vang_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-50.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-mn.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_03-mn.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_05um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_05um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_05um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_05um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_05um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_05um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_03gm-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_03gm-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_03gm-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trysil_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trysil_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trysil_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_02uk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_02uk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_02uk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_02uk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vinje_01um-05um.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vinje_01um-05um.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vinje_01um-05um.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_36-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aure_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aure_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aure_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aure_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aure_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aure_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rollag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyMR_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyMR_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyMR_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyMR_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyMR_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rollag_03gm-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rollag_03gm-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rollag_03gm-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rollag_03gm-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rollag_03gm-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roemskog_02uk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_03gm-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lardal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lardal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roeros_02uk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lardal_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mo_i_rana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mo_i_rana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mo_i_rana_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lardal_02uk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lardal_02uk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lardal_02uk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_02uk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_01um-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/voss_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_04gk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_04gk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_04gk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_04gk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_04gk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_04gk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sirdal_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/time_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lom_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lom_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/nes_02uk-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/nes_02uk-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_01um-ahl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rollag_01um-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rollag_01um-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/drevsjoe_02uk-ms.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/drevsjoe_02uk-ms.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/drevsjoe_02uk-ms.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/drevsjoe_02uk-ms.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/selbu_03gm-jk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/selbu_03gm-jk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_18-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_18-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_18-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_18-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_18-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_18-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/time_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/time_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/drevsjoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sokndal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sokndal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/jevnaker_01um-lh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/beiarn_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-as.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-as.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-as.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_47-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_07gm-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aure_03gm-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aure_03gm-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjartdal_01um-as.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvinnherad_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/jevnaker_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/jevnaker_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/jevnaker_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/jevnaker_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/jevnaker_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/jevnaker_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_02uk-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/todalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_03gm-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_03gm-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_03gm-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_01um-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_01um-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_01um-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_05um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_05um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_05um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjartdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/namdalen_03gm-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/namdalen_03gm-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/namdalen_03gm-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/namdalen_03gm-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vinje_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fusa_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fusa_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fusa_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fusa_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sokndal_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sokndal_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sokndal_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/darbu_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_01um-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_01um-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_01um-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_01um-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_01um-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/todalen_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/nissedal_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rena_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_02-31.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_02uk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_02uk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_02uk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_18-19.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_18-19.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_03gm-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_03gm-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_03gm-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/inderoey_03gm-cbo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_02uk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_02uk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_02uk-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_02uk-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_02uk-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_02uk-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_02uk-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_02uk-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_01um-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-39.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-39.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-39.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-39.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-39.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-39.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-39.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-39.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_37-39.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/dalsbygda_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/dalsbygda_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/dalsbygda_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/dalsbygda_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_04gk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_01um-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_01um-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rauma_01um-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvam_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/enebakk_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/enebakk_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/enebakk_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_03gm-as.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stryn_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_01um-06uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_01um-06uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_01um-06uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_01um-06uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_01um-06uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_01um-06uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roemskog_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bergen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sirdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sirdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sirdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sirdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sirdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/dalsbygda_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/dalsbygda_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/dalsbygda_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/dalsbygda_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/dalsbygda_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_03gm-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roeros_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roeros_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roeros_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roeros_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roeros_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_02uk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mo_i_rana_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mo_i_rana_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mo_i_rana_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_01um-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_01um-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_01um-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-08gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/selbu_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/selbu_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_24-29.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_24-29.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_24-29.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_24-29.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_24-29.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_24-29.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/suldal_02uk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gjesdal_01um-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/eidfjord_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_04gk-lh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_04gk-lh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_04gk-lh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_04gk-lh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_29-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_29-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_29-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/enebakk_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/enebakk_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/enebakk_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/enebakk_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gausdal_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_01um-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/darbu_04gk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/darbu_04gk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/darbu_04gk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/meraaker_02uk-jk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/gauldal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_03gm-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stamsund_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aaseral_02uk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_02uk-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_03gm-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_03gm-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_03gm-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_03gm-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_03gm-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_03gm-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_03gm-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stranda_03gm-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_01um-05um.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_02uk-ahl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_02uk-ahl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_02uk-ahl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_02uk-ahl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_02uk-ahl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_02uk-ahl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_02uk-ahl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_02uk-ahl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_02uk-ahl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sylling_02uk-ahl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_02uk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_02uk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/fredrikstad_02uk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trysil_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trysil_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trysil_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_01um-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rollag_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/evje_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/ballangen_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lom_02uk-jk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/alvdal_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karmoey_01um-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/selbu_04gk-jk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/selbu_04gk-jk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/selbu_04gk-jk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/selbu_04gk-jk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/selbu_04gk-jk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hammerfest_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_15-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_15-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_15-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/luster_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/time_03gm-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/medby_74-75.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vegaarshei_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aure_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/darbu_02uk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/darbu_02uk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/drevsjoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lommedalen_01um-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_07gm-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lardal_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lardal_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lardal_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_02uk-lks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_02uk-lks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_02uk-lks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_02uk-lks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_02uk-lks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_02uk-lks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_02uk-lks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trysil_02uk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_16-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_16-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_16-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_16-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_02uk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_02uk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_02uk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_02uk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_02uk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_02uk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_02uk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_02uk-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_24-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_24-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_24-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_24-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_24-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_24-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_24-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_24-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_19-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_19-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_19-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_19-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bjugn_19-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_03gm-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_03gm-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_03gm-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_03gm-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_03gm-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_03gm-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kristiansand_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_50-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_50-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stonglandseidet_50-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/rollag_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyN_03gm-kh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sirdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_04gk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_04gk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjartdal_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjartdal_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjartdal_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjartdal_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjartdal_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjartdal_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjartdal_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/nissedal_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/oppdal_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/brunlanes_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/boemlo_04gk-eo.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aure_02uk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/aure_02uk-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/soemna_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lavangen_01um-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_03gm-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lom_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lom_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_04gk-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_04gk-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trondheim_04gk-ran.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/enebakk_02uk-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lierne_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkesdalen_04gk-hna.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaefjord_02uk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kvaenangen_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_08gk-mj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_08gk-mj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_08gk-mj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_08gk-mj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_08gk-mj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_08gk-mj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_08gk-mj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenaer_08gk-mj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_24-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_24-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-lh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-lh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-lh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/landvik_01um-lh.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_33-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stokkoeya_33-pmk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_03gm-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/nes_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/nes_03gm-ifg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/karlsoey_02uk-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_02uk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_02uk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_02uk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_02uk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_04gk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_04gk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_04gk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_04gk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_04gk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_04gk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hyllestad_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roemskog_03gm-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vinje_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vinje_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vinje_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tinn_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_02uk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_02uk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_02uk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_02uk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_02uk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_02uk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_02uk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hof_02uk-sb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyMR_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyMR_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyMR_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyMR_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyMR_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/heroeyMR_01um-ta.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bodoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tana_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_06uk-07gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_06uk-07gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_06uk-07gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_06uk-07gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_06uk-07gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_06uk-07gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kirkenes_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vardoe_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_03gm-kb.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kalvaag_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hattfjelldal_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/trysil_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_04gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_02uk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stavanger_02uk-sr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_36-43.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/steigen_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/roeros_04gk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/valle_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_01um-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_01um-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_01um-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_01um-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_01um-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/joelster_01um-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_01um-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kautokeino_01um-03gm.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/flaa_04gk-amg.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_06uk-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_06uk-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/stange_06uk-aml.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vennesla_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_04gk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_04gk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/bud_04gk-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_39-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_39-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/skaugdalen_39-ma.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mefjordvaer_19-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sokndal_01um-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sokndal_01um-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sokndal_01um-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/time_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/time_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_28-29.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_28-29.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_28-29.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/surnadal_28-29.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/hjelmeland_02uk-ks.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/myre_01um-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lakselv_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kjoellefjord_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/narvik_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_04gk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_04gk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_04gk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_04gk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_04gk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_04gk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_04gk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/kaafjord_04gk-amj.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/vinje_08gk-sl.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lyngdal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_02uk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_02uk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_02uk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/volda_02uk-amr.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/mo_i_rana_03gm-ov.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/sokndal_03gm-04gk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/lindaas_04gk-mi.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/ndc/tromsoe_01um-02uk.isc:
+
+Unaligned source tokens:	66.99%
+Unaligned target tokens:	68.30%
+Alignment to differents:	11.88%
+Vowel-cons alignments:	2.01%
+Crossing alignment pairs:	0.01%
+Format errors:	2186
+
+m2m_max22_delXY_eqmap/concat/ndc.*.isc
+Number of files: 0
+m2m_max22_delXY_eqmap/skn/*.isc
+Number of files: 99
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/07a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/17a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/17a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/17a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/17a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/17a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/10b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/10b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/26b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/26b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/26b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/26b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/26b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/37a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/37a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/37a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/37a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/14b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/22b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/22b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/14a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/14a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/15a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/15a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/15a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/12b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/40a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/40a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/40a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/40a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/24b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/24b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/24b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/28a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/28a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/15b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/15b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/15b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/42b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/49b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/49b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/49b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/49b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/49b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/49b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/49b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/49b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/49b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/29a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/29a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/29a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/19b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/08b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/41b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/17b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/17b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/23a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/36a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/36a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/38a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/49a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/02b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/02b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/02b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/09a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/05a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/05a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/22a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/22a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/22a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/22a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/22a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/21a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/41a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/35a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/35a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/30b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/30b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/30b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/01a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/01a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/01a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/01a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/01a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/11b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/11b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/08a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/08a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/08a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/08a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/31b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/31b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/03b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/29b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/29b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/23b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/50b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/25b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/25b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/25b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/25b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/25a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/25a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/04a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/31a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/32b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/32b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/36b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/21b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/21b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/39b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/28b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/18b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/18b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/18b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/16a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/16a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/16a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/16a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/16a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/19a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/19a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/19a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/19a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/34.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/32a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/32a.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/27b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/33b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/33b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/33b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/33b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/33b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/40b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/40b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/37b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/37b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/37b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/37b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13b.isc:
+
+Cannot parse alignment in file m2m_max22_delXY_eqmap/skn/13b.isc:
+
+Unaligned source tokens:	66.61%
+Unaligned target tokens:	65.51%
+Alignment to differents:	17.32%
+Vowel-cons alignments:	2.69%
+Crossing alignment pairs:	0.01%
+Format errors:	188
+
+m2m_max22_delXY_eqmap/concat/skn.*.isc
+Number of files: 0

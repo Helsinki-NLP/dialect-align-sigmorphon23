@@ -1,0 +1,55 @@
+
+fastalign/archimob6/*.uni
+Number of files: 6
+Unaligned source tokens:	10.54%
+Unaligned target tokens:	17.84%
+Alignment to differents:	12.45%
+Vowel-cons alignments:	1.64%
+Crossing alignment pairs:	3.00%
+Format errors:	0
+
+fastalign/concat/archimob6.*.uni
+Number of files: 1
+Unaligned source tokens:	10.11%
+Unaligned target tokens:	17.48%
+Alignment to differents:	11.80%
+Vowel-cons alignments:	1.56%
+Crossing alignment pairs:	3.04%
+Format errors:	0
+
+fastalign/ndc/*.uni
+Number of files: 648
+Unaligned source tokens:	23.99%
+Unaligned target tokens:	26.97%
+Alignment to differents:	7.25%
+Vowel-cons alignments:	1.29%
+Crossing alignment pairs:	1.93%
+Format errors:	0
+
+fastalign/concat/ndc.*.uni
+Number of files: 1
+Unaligned source tokens:	23.69%
+Unaligned target tokens:	26.69%
+Alignment to differents:	5.95%
+Vowel-cons alignments:	1.01%
+Crossing alignment pairs:	2.04%
+Format errors:	0
+
+fastalign/skn/*.uni
+Number of files: 99
+Unaligned source tokens:	48.01%
+Unaligned target tokens:	46.38%
+Alignment to differents:	6.91%
+Vowel-cons alignments:	0.26%
+Crossing alignment pairs:	0.99%
+Format errors:	0
+
+fastalign/concat/skn.*.uni
+Number of files: 1
+Unaligned source tokens:	48.20%
+Unaligned target tokens:	46.75%
+Alignment to differents:	5.30%
+Vowel-cons alignments:	0.17%
+Crossing alignment pairs:	0.94%
+Format errors:	0
+

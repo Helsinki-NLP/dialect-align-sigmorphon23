@@ -1,0 +1,359 @@
+
+giza/archimob6/*.isc
+Number of files: 6
+Unaligned source tokens:	17.09%
+Unaligned target tokens:	25.24%
+Alignment to differents:	6.54%
+Vowel-cons alignments:	0.22%
+Crossing alignment pairs:	0.07%
+Format errors:	0
+
+giza/concat/archimob6.*.isc
+Number of files: 1
+Unaligned source tokens:	16.21%
+Unaligned target tokens:	24.44%
+Alignment to differents:	6.47%
+Vowel-cons alignments:	0.21%
+Crossing alignment pairs:	0.06%
+Format errors:	0
+
+giza/ndc/*.isc
+Number of files: 648
+Cannot parse alignment in file giza/ndc/evje_03gm-sl.isc:
+
+Cannot parse alignment in file giza/ndc/luster_06uk-ov.isc:
+
+Cannot parse alignment in file giza/ndc/mefjordvaer_20-mn.isc:
+
+Cannot parse alignment in file giza/ndc/lindaas_02uk-mi.isc:
+
+Cannot parse alignment in file giza/ndc/luster_02uk-ov.isc:
+
+Cannot parse alignment in file giza/ndc/oppdal_02-jbj.isc:
+
+Cannot parse alignment in file giza/ndc/brekkom_01um-sl.isc:
+
+Cannot parse alignment in file giza/ndc/valle_03gm-eo.isc:
+
+Cannot parse alignment in file giza/ndc/vang_03gm-04gk.isc:
+
+Cannot parse alignment in file giza/ndc/karmoey_02uk-ks.isc:
+
+Cannot parse alignment in file giza/ndc/kvaefjord_03gm-ov.isc:
+
+Cannot parse alignment in file giza/ndc/fusa_01um-mi.isc:
+
+Cannot parse alignment in file giza/ndc/selbu_03gm-jk.isc:
+
+Cannot parse alignment in file giza/ndc/eidfjord_01um-sl.isc:
+
+Cannot parse alignment in file giza/ndc/stange_02uk-03gm.isc:
+
+Cannot parse alignment in file giza/ndc/aal_01um-sl.isc:
+
+Cannot parse alignment in file giza/ndc/stange_02uk-aml.isc:
+
+Cannot parse alignment in file giza/ndc/stavanger_01um-ks.isc:
+
+Cannot parse alignment in file giza/ndc/gausdal_05um-sl.isc:
+
+Cannot parse alignment in file giza/ndc/kirkenes_03gm-kb.isc:
+
+Cannot parse alignment in file giza/ndc/stamsund_04gk-ov.isc:
+
+Cannot parse alignment in file giza/ndc/eidfjord_04gk-mi.isc:
+
+Cannot parse alignment in file giza/ndc/hjelmeland_03gm-sr.isc:
+
+Cannot parse alignment in file giza/ndc/meraaker_02uk-jk.isc:
+
+Cannot parse alignment in file giza/ndc/vennesla_01um-sl.isc:
+
+Cannot parse alignment in file giza/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file giza/ndc/tinn_03gm-mi.isc:
+
+Cannot parse alignment in file giza/ndc/vinje_04gk-sl.isc:
+
+Cannot parse alignment in file giza/ndc/valle_01um-02uk.isc:
+
+Cannot parse alignment in file giza/ndc/vennesla_03gm-sl.isc:
+
+Cannot parse alignment in file giza/ndc/skaugdalen_39-ma.isc:
+
+Cannot parse alignment in file giza/ndc/lindaas_04gk-mi.isc:
+
+Unaligned source tokens:	23.46%
+Unaligned target tokens:	25.88%
+Alignment to differents:	7.01%
+Vowel-cons alignments:	0.05%
+Crossing alignment pairs:	0.06%
+Format errors:	32
+
+giza/concat/ndc.*.isc
+Number of files: 1
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Cannot parse alignment in file giza/concat/ndc.all.isc:
+
+Unaligned source tokens:	37.96%
+Unaligned target tokens:	39.92%
+Alignment to differents:	9.56%
+Vowel-cons alignments:	0.02%
+Crossing alignment pairs:	0.08%
+Format errors:	120
+
+giza/skn/*.isc
+Number of files: 99
+Unaligned source tokens:	47.66%
+Unaligned target tokens:	46.05%
+Alignment to differents:	4.60%
+Vowel-cons alignments:	0.02%
+Crossing alignment pairs:	0.12%
+Format errors:	0
+
+giza/concat/skn.*.isc
+Number of files: 1
+Unaligned source tokens:	41.86%
+Unaligned target tokens:	40.07%
+Alignment to differents:	3.95%
+Vowel-cons alignments:	0.01%
+Crossing alignment pairs:	0.06%
+Format errors:	0
+

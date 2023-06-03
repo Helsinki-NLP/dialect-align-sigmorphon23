@@ -1,0 +1,55 @@
+
+leven/archimob6/*.isc
+Number of files: 6
+Unaligned source tokens:	5.71%
+Unaligned target tokens:	14.98%
+Alignment to differents:	13.73%
+Vowel-cons alignments:	1.12%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/concat/archimob6.*.isc
+Number of files: 1
+Unaligned source tokens:	5.71%
+Unaligned target tokens:	14.98%
+Alignment to differents:	13.73%
+Vowel-cons alignments:	1.12%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/ndc/*.isc
+Number of files: 648
+Unaligned source tokens:	5.29%
+Unaligned target tokens:	8.28%
+Alignment to differents:	8.67%
+Vowel-cons alignments:	0.34%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/concat/ndc.*.isc
+Number of files: 1
+Unaligned source tokens:	5.29%
+Unaligned target tokens:	8.28%
+Alignment to differents:	8.67%
+Vowel-cons alignments:	0.34%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/skn/*.isc
+Number of files: 99
+Unaligned source tokens:	10.16%
+Unaligned target tokens:	7.39%
+Alignment to differents:	6.78%
+Vowel-cons alignments:	0.31%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/concat/skn.*.isc
+Number of files: 1
+Unaligned source tokens:	10.16%
+Unaligned target tokens:	7.39%
+Alignment to differents:	6.78%
+Vowel-cons alignments:	0.31%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+

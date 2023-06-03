@@ -1,0 +1,93 @@
+
+m2m_max11_delXY/archimob6/*.isc
+Number of files: 6
+Unaligned source tokens:	19.17%
+Unaligned target tokens:	27.12%
+Alignment to differents:	7.65%
+Vowel-cons alignments:	0.41%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/concat/archimob6.*.isc
+Number of files: 1
+Unaligned source tokens:	19.32%
+Unaligned target tokens:	27.25%
+Alignment to differents:	7.42%
+Vowel-cons alignments:	0.45%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/ndc/*.isc
+Number of files: 648
+Cannot parse alignment in file m2m_max11_delXY/ndc/hof_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/vang_02uk-sl.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/evje_03gm-sl.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/lindaas_02uk-mi.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/brekkom_01um-sl.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/karmoey_02uk-ks.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/kvaefjord_04gk-ov.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/time_04gk-jbj.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/selbu_03gm-jk.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/kaafjord_07gm-amj.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/gausdal_05um-sl.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/vang_01um-02uk.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/hjelmeland_03gm-sr.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/meraaker_02uk-jk.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/vennesla_02uk-sl.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/botnhamn_06-jbj.isc:
+
+Cannot parse alignment in file m2m_max11_delXY/ndc/narvik_03gm-04gk.isc:
+
+Unaligned source tokens:	11.46%
+Unaligned target tokens:	14.26%
+Alignment to differents:	7.82%
+Vowel-cons alignments:	0.12%
+Crossing alignment pairs:	0.00%
+Format errors:	17
+
+m2m_max11_delXY/concat/ndc.*.isc
+Number of files: 1
+Unaligned source tokens:	7.10%
+Unaligned target tokens:	10.03%
+Alignment to differents:	7.17%
+Vowel-cons alignments:	0.03%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/skn/*.isc
+Number of files: 99
+Cannot parse alignment in file m2m_max11_delXY/skn/19a.isc:
+
+Unaligned source tokens:	21.52%
+Unaligned target tokens:	19.10%
+Alignment to differents:	5.88%
+Vowel-cons alignments:	0.06%
+Crossing alignment pairs:	0.00%
+Format errors:	1
+
+m2m_max11_delXY/concat/skn.*.isc
+Number of files: 1
+Cannot parse alignment in file m2m_max11_delXY/concat/skn.all.isc:
+
+Unaligned source tokens:	12.14%
+Unaligned target tokens:	9.43%
+Alignment to differents:	4.54%
+Vowel-cons alignments:	0.02%
+Crossing alignment pairs:	0.00%
+Format errors:	1
+

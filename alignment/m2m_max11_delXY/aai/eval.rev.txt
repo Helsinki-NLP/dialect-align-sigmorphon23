@@ -1,0 +1,89 @@
+
+m2m_max11_delXY/aai/archimob6/*.rev
+Number of files: 6
+Unaligned source tokens:	15.15%
+Unaligned target tokens:	24.86%
+Alignment to differents:	8.49%
+Vowel-cons alignments:	0.42%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/aai/concat/archimob6.*.rev
+Number of files: 1
+Unaligned source tokens:	15.56%
+Unaligned target tokens:	25.17%
+Alignment to differents:	8.06%
+Vowel-cons alignments:	0.46%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/aai/ndc/*.rev
+Number of files: 648
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/hof_01um-02uk.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/vennesla_02uk-sl.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/vang_01um-02uk.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/selbu_03gm-jk.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/gausdal_05um-sl.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/time_04gk-jbj.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/meraaker_02uk-jk.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/karmoey_02uk-ks.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/narvik_03gm-04gk.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/kaafjord_07gm-amj.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/botnhamn_06-jbj.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/lindaas_02uk-mi.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/brekkom_01um-sl.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/kvaefjord_04gk-ov.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/evje_03gm-sl.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/vang_02uk-sl.rev:
+
+Cannot parse alignment in file m2m_max11_delXY/aai/ndc/hjelmeland_03gm-sr.rev:
+
+Unaligned source tokens:	6.53%
+Unaligned target tokens:	13.33%
+Alignment to differents:	7.74%
+Vowel-cons alignments:	0.15%
+Crossing alignment pairs:	0.00%
+Format errors:	17
+
+m2m_max11_delXY/aai/concat/ndc.*.rev
+Number of files: 1
+Unaligned source tokens:	2.41%
+Unaligned target tokens:	9.44%
+Alignment to differents:	7.03%
+Vowel-cons alignments:	0.03%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/aai/skn/*.rev
+Number of files: 99
+Unaligned source tokens:	10.75%
+Unaligned target tokens:	7.35%
+Alignment to differents:	5.52%
+Vowel-cons alignments:	0.07%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+m2m_max11_delXY/aai/concat/skn.*.rev
+Number of files: 1
+Unaligned source tokens:	10.73%
+Unaligned target tokens:	7.33%
+Alignment to differents:	4.72%
+Vowel-cons alignments:	0.02%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+

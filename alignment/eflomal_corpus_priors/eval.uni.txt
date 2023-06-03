@@ -1,0 +1,103 @@
+
+eflomal_corpus_priors/archimob6/*.uni
+Number of files: 6
+Unaligned source tokens:	3.61%
+Unaligned target tokens:	12.20%
+Alignment to differents:	16.49%
+Vowel-cons alignments:	1.31%
+Crossing alignment pairs:	0.65%
+Format errors:	0
+
+eflomal_corpus_priors/concat/archimob6.*.uni
+Number of files: 1
+Unaligned source tokens:	3.25%
+Unaligned target tokens:	11.89%
+Alignment to differents:	16.67%
+Vowel-cons alignments:	1.38%
+Crossing alignment pairs:	1.52%
+Format errors:	0
+
+eflomal_corpus_priors/ndc/*.uni
+Number of files: 648
+Unaligned source tokens:	3.13%
+Unaligned target tokens:	7.27%
+Alignment to differents:	9.70%
+Vowel-cons alignments:	0.40%
+Crossing alignment pairs:	0.58%
+Format errors:	0
+
+eflomal_corpus_priors/concat/ndc.*.uni
+Number of files: 1
+Unaligned source tokens:	3.33%
+Unaligned target tokens:	6.31%
+Alignment to differents:	10.60%
+Vowel-cons alignments:	0.38%
+Crossing alignment pairs:	5.41%
+Format errors:	0
+
+eflomal_corpus_priors/skn/*.uni
+Number of files: 99
+Cannot parse alignment in file eflomal_corpus_priors/skn/14a.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/06a.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/27a.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/21a.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/10a.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/45b.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/45b.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/12b.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/13b.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/13b.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/13b.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/13b.uni:
+
+Unaligned source tokens:	7.38%
+Unaligned target tokens:	4.39%
+Alignment to differents:	10.44%
+Vowel-cons alignments:	0.27%
+Crossing alignment pairs:	2.37%
+Format errors:	12
+
+eflomal_corpus_priors/concat/skn.*.uni
+Number of files: 1
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Cannot parse alignment in file eflomal_corpus_priors/concat/skn.all.uni:
+
+Unaligned source tokens:	7.65%
+Unaligned target tokens:	4.29%
+Alignment to differents:	10.23%
+Vowel-cons alignments:	0.23%
+Crossing alignment pairs:	13.39%
+Format errors:	12
+

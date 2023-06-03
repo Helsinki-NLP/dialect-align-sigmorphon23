@@ -1,0 +1,55 @@
+
+leven/aai/archimob6/*.fwd
+Number of files: 6
+Unaligned source tokens:	2.84%
+Unaligned target tokens:	13.15%
+Alignment to differents:	14.47%
+Vowel-cons alignments:	1.33%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/aai/concat/archimob6.*.fwd
+Number of files: 1
+Unaligned source tokens:	2.84%
+Unaligned target tokens:	13.15%
+Alignment to differents:	14.47%
+Vowel-cons alignments:	1.33%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/aai/ndc/*.fwd
+Number of files: 648
+Unaligned source tokens:	1.31%
+Unaligned target tokens:	7.98%
+Alignment to differents:	8.62%
+Vowel-cons alignments:	0.37%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/aai/concat/ndc.*.fwd
+Number of files: 1
+Unaligned source tokens:	1.31%
+Unaligned target tokens:	7.98%
+Alignment to differents:	8.62%
+Vowel-cons alignments:	0.37%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/aai/skn/*.fwd
+Number of files: 99
+Unaligned source tokens:	8.91%
+Unaligned target tokens:	5.58%
+Alignment to differents:	7.60%
+Vowel-cons alignments:	0.31%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+leven/aai/concat/skn.*.fwd
+Number of files: 1
+Unaligned source tokens:	8.91%
+Unaligned target tokens:	5.58%
+Alignment to differents:	7.60%
+Vowel-cons alignments:	0.31%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+

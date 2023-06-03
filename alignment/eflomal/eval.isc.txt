@@ -1,0 +1,127 @@
+
+eflomal/archimob6/*.isc
+Number of files: 6
+Unaligned source tokens:	16.41%
+Unaligned target tokens:	24.63%
+Alignment to differents:	11.89%
+Vowel-cons alignments:	0.49%
+Crossing alignment pairs:	0.02%
+Format errors:	0
+
+eflomal/concat/archimob6.*.isc
+Number of files: 1
+Unaligned source tokens:	11.99%
+Unaligned target tokens:	20.64%
+Alignment to differents:	12.63%
+Vowel-cons alignments:	0.58%
+Crossing alignment pairs:	0.07%
+Format errors:	0
+
+eflomal/ndc/*.isc
+Number of files: 648
+Unaligned source tokens:	9.40%
+Unaligned target tokens:	12.27%
+Alignment to differents:	8.27%
+Vowel-cons alignments:	0.12%
+Crossing alignment pairs:	0.00%
+Format errors:	0
+
+eflomal/concat/ndc.*.isc
+Number of files: 1
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Cannot parse alignment in file eflomal/concat/ndc.all.isc:
+
+Unaligned source tokens:	21.32%
+Unaligned target tokens:	23.81%
+Alignment to differents:	7.65%
+Vowel-cons alignments:	0.12%
+Crossing alignment pairs:	0.37%
+Format errors:	12
+
+eflomal/skn/*.isc
+Number of files: 99
+Cannot parse alignment in file eflomal/skn/14a.isc:
+
+Cannot parse alignment in file eflomal/skn/45b.isc:
+
+Cannot parse alignment in file eflomal/skn/45b.isc:
+
+Cannot parse alignment in file eflomal/skn/12b.isc:
+
+Cannot parse alignment in file eflomal/skn/27a.isc:
+
+Cannot parse alignment in file eflomal/skn/21a.isc:
+
+Cannot parse alignment in file eflomal/skn/06a.isc:
+
+Cannot parse alignment in file eflomal/skn/10a.isc:
+
+Cannot parse alignment in file eflomal/skn/13b.isc:
+
+Cannot parse alignment in file eflomal/skn/13b.isc:
+
+Cannot parse alignment in file eflomal/skn/13b.isc:
+
+Cannot parse alignment in file eflomal/skn/13b.isc:
+
+Unaligned source tokens:	13.77%
+Unaligned target tokens:	11.11%
+Alignment to differents:	6.83%
+Vowel-cons alignments:	0.11%
+Crossing alignment pairs:	0.02%
+Format errors:	12
+
+eflomal/concat/skn.*.isc
+Number of files: 1
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Cannot parse alignment in file eflomal/concat/skn.all.isc:
+
+Unaligned source tokens:	28.54%
+Unaligned target tokens:	26.34%
+Alignment to differents:	6.29%
+Vowel-cons alignments:	0.07%
+Crossing alignment pairs:	0.65%
+Format errors:	12
+
